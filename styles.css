@@ -1,0 +1,45 @@
+* {
+  margin: 0em;
+  padding: 0em;
+  box-sizing: border-box;
+}
+
+.ocean {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 5em;
+  height: 30%;
+  background-color: dodgerblue;
+  text-align: center;
+  color: hsla(210, 48%, 40%, 1);
+  text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.2);
+}
+
+.periscope {
+  position: relative;
+  bottom: 0.4em;
+}
+
+.sky {
+  height: 70%;
+  background-color: hsla(210, 100%, 95%, 1);
+}
+
+.height {
+  height: 20%;
+}
+
+.layer1 {
+  background-color: hsla(210, 100%, 87%, 1);
+}
+
+.layer2 {
+  background-color: hsla(210, 100%, 89%, 1);
+}
+
+.layer3 {
+  background-color: hsla(210, 100%, 91%, 1);
+}
+
+.layer4 {
+  background-color: hsla(210, 100%, 93%, 1);
+}
